@@ -25,13 +25,13 @@
 - **Version Control**: Git, GitHub.
 - **Scripting**: Bash, Shell.
 
-### **System Administration** (Secondary Focus)
+### **System Administration**
 - **Linux Servers**: Apache, MariaDB, Samba, DNS, DHCP, NFS, RDP, SMTP, FTP.
 - **Windows Servers**: Active Directory.
 - **Virtualization**: Docker, Proxmox.
 - **IT Tools**: GLPI, Fusion Inventory.
 
-### **Network Engineering** (Secondary Focus)
+### **Network Engineering**
 - **Network Administration**: Configuration and management of computer networks.
 - **Network Security**: Implementing firewalls, ACLs, and authentication mechanisms.
 - **Cloud Computing**: Managing cloud infrastructure and online network services.
@@ -86,7 +86,7 @@ Check out my portfolio for more details about my projects and skills:
 
 - **Email**: [amranihassan.am@gmail.com](mailto:amranihassan.am@gmail.com)
 - **Phone**: +212 6406 28450
-- **Location**: Bouskoura, Casablanca, Morocco
+- **Location**: Casablanca, Morocco
 - **GitHub**: [SAN-AMRANI](https://github.com/SAN-AMRANI)
 - **LinkedIn**: [Hassan AMRANI](https://www.linkedin.com/in/hassan-amrani)
 
