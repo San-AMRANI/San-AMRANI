@@ -1,5 +1,5 @@
 # Hassan AMRANI
-### System Administrator & Full-Stack Developer | Oracle Certified Java SE 17 Developer
+### System Administrator & Full-Stack Developer
 
 Welcome to my GitHub! I'm a passionate **Master's student in Computer Networks and Systems** at **University Hassan I (FSTS)**, specializing in **system administration**, **web development**, and **network security**. I love building scalable applications and managing robust IT infrastructures.
 
