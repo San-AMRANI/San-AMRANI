@@ -1,102 +1,123 @@
-# Amrani Hassan
+# Hassan AMRANI 👨‍💻
+### System Administrator & Full-Stack Developer | Oracle Certified Java SE 17 Developer
 
-👋 Hello! I'm **Amrani Hassan**, a passionate and dedicated Master's student in **Computer Networks and Systems** at the **University Hassan I, Faculty of Sciences and Technology of Settat (FSTS)**. I specialize in **web development**, **software engineering**, and **system administration**, with a strong focus on building robust, scalable, and secure applications. I'm always eager to learn and explore new technologies.
-
----
-
-## 🚀 Skills
-
-### **Web Development**
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Next.js.
-- **Backend**: PHP, Laravel, Java (OOP), Spring Boot, JEE.
-- **Full-Stack Frameworks**: Laravel, Spring Boot.
-- **Database Integration**: MySQL, PostgreSQL, Oracle SQL, PL/SQL.
-
-### **Mobile Development**
-- **Cross-Platform**: Flutter, Dart.
-- **UI/UX Design**: Responsive and user-friendly mobile interfaces.
-
-### **Desktop Applications**
-- **Languages**: Java.
-- **Database Integration**: MySQL, PostgreSQL.
-
-### **Software Engineering**
-- **System Design**: UML, UP/XP methodologies.
-- **Version Control**: Git, GitHub.
-- **Scripting**: Bash, Shell.
-
-### **System Administration**
-- **Linux Servers**: Apache, MariaDB, Samba, DNS, DHCP, NFS, RDP, SMTP, FTP.
-- **Windows Servers**: Active Directory.
-- **Virtualization**: Docker, Proxmox.
-- **IT Tools**: GLPI, Fusion Inventory.
-
-### **Network Engineering**
-- **Network Administration**: Configuration and management of computer networks.
-- **Network Security**: Implementing firewalls, ACLs, and authentication mechanisms.
-- **Cloud Computing**: Managing cloud infrastructure and online network services.
+Welcome to my GitHub! I'm a passionate **Master's student in Computer Networks and Systems** at **University Hassan I (FSTS)**, specializing in **system administration**, **web development**, and **network security**. I love building scalable applications and managing robust IT infrastructures.
 
 ---
 
-## 🎓 Education
+## 🚀 What I Do
 
-- **Master’s in Computer Networks and Systems**  
-  *University Hassan I, Faculty of Sciences and Technology of Settat (FSTS)*  
-  *Sept 2024 - Present*
-
-- **Bachelor’s in Computer Science and Engineering (LST)**  
-  *University Hassan I, Faculty of Sciences and Technology of Settat (FSTS)*  
-  *Sept 2023 - Jun 2024*
-
-- **University Diploma in Mathematics, Computer Science, and Physics (DEUST-MIP)**  
-  *University Hassan I, Faculty of Sciences and Technology of Settat (FSTS)*  
-  *Sept 2021 - Jun 2023*
-
-- **High School Diploma in Physical Sciences (With Honors)**  
-  *Lycée EL Kindi, Bouskoura*  
-  *Sept 2019 - Jun 2020*
+- 🖥️ **System Administration**: Linux/Windows servers, network security, infrastructure management
+- 💻 **Full-Stack Development**: Modern web applications with Laravel, Spring Boot, and Next.js
+- 📱 **Mobile Development**: Cross-platform apps with Flutter
+- 🔒 **Network Security**: Firewall configuration, security auditing, and cybersecurity implementation
+- ☁️ **DevOps**: Docker containerization, CI/CD pipelines, and cloud deployment
 
 ---
 
-## 🏆 Certifications
+## 🛠️ Tech Stack
 
-- **Oracle Certified Professional**: Java SE 17 Developer.
+### **Backend & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
----
+### **Frontend & Mobile**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-## 💼 Experience
-
-### **Internship at SOMASTEEL**  
-*April 2024 - September 2024*  
-- Developed an internal web application for inventory management.
-- Integrated backend APIs with a responsive frontend.
-- Ensured secure user authentication and data encryption.
-- Administered a web server on Ubuntu and managed IT equipment using GLPI and Fusion Inventory.
-
----
-
-## 🌐 Portfolio
-
-Check out my portfolio for more details about my projects and skills:  
-[**https://cv.amranihassan.site**](https://cv.amranihassan.site)
-
----
-
-## 📫 Contact Me
-
-- **Email**: [amranihassan.am@gmail.com](mailto:amranihassan.am@gmail.com)
-- **Phone**: +212 6406 28450
-- **Location**: Casablanca, Morocco
-- **GitHub**: [SAN-AMRANI](https://github.com/SAN-AMRANI)
-- **LinkedIn**: [Hassan AMRANI](https://www.linkedin.com/in/hassan-amrani)
+### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 🔧 Languages
+## 🏆 Certifications & Education
 
-- **English**: B2
-- **French**: B2
+🎓 **Master's in Computer Networks and Systems** *(In Progress)* - University Hassan I  
+🥇 **Oracle Certified Java SE 17 Developer** - Oracle (2024)  
+📚 **Bachelor's in Computer Science Engineering** - University Hassan I
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaborations or opportunities. 😊
+## 💼 Professional Experience
+
+**System Administrator & Web Developer** | SOMASTEEL Internship  
+- Developed employee management system using Laravel/MySQL
+- Administered Ubuntu web servers and IT infrastructure
+- Implemented security protocols and network configurations
+- Managed IT equipment using GLPI and Fusion Inventory
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 [SanAI AI Platform](https://sanai.amranihassan.site)
+AI chat and prompt-sharing platform built with Next.js and MongoDB
+- Real-time AI interactions
+- Modern UI with Tailwind CSS
+- Community prompt sharing
+
+### 👥 [Employee Management System](https://app.somasteel.ma)
+Full-stack HR management application for SOMASTEEL
+- Laravel backend with MySQL
+- Bootstrap responsive UI
+- Secure authentication system
+
+### 📱 [Flutter To-Do App](https://appetize.io/embed/b_rhh5ycth2pgzr7gjcmhnkjxi6i)
+Cross-platform mobile task management application
+- Clean Flutter/Dart architecture
+- Intuitive user interface
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAN-AMRANI&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAN-AMRANI&layout=compact&theme=tokyonight&hide=html,css&langs_count=8)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.amranihassan.site/contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassan-amrani-12843817a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amranihassan.am@gmail.com)
+
+---
+
+## 💡 Currently Working On
+
+- 🎓 Advanced studies in network security and distributed systems
+- 🚀 Building a student meeting platform with Spring Boot and Flutter
+- 📚 Exploring cloud technologies and DevOps practices
+- 🔍 Available for freelance projects and collaboration opportunities
+
+---
+
+## 📍 Quick Facts
+
+- 🌍 **Location**: Casablanca, Morocco
+- 💼 **Status**: Available for new opportunities
+- 🗣️ **Languages**: French, English, Arabic
+- ⚡ **Fun fact**: I built an AI assistant for my portfolio website!
+
+---
+
+<div align="center">
+
+**Thanks for visiting my GitHub! Feel free to explore my repositories and reach out for collaborations.** 🚀
+
+</div>
