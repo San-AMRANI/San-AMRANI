@@ -1,4 +1,4 @@
-# Hassan AMRANI 👨‍💻
+# Hassan AMRANI
 ### System Administrator & Full-Stack Developer | Oracle Certified Java SE 17 Developer
 
 Welcome to my GitHub! I'm a passionate **Master's student in Computer Networks and Systems** at **University Hassan I (FSTS)**, specializing in **system administration**, **web development**, and **network security**. I love building scalable applications and managing robust IT infrastructures.
@@ -81,8 +81,6 @@ Cross-platform mobile task management application
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAN-AMRANI&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAN-AMRANI&layout=compact&theme=tokyonight&hide=html,css&langs_count=8)
 
